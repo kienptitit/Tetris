@@ -1,0 +1,114 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="62">
+            <item index="0" class="java.lang.String" itemvalue="thop" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="2" class="java.lang.String" itemvalue="protobuf" />
+            <item index="3" class="java.lang.String" itemvalue="onnxsim" />
+            <item index="4" class="java.lang.String" itemvalue="torch" />
+            <item index="5" class="java.lang.String" itemvalue="tqdm" />
+            <item index="6" class="java.lang.String" itemvalue="yacs" />
+            <item index="7" class="java.lang.String" itemvalue="json_tricks" />
+            <item index="8" class="java.lang.String" itemvalue="scipy" />
+            <item index="9" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="10" class="java.lang.String" itemvalue="numpy" />
+            <item index="11" class="java.lang.String" itemvalue="torchvision" />
+            <item index="12" class="java.lang.String" itemvalue="pycocotools" />
+            <item index="13" class="java.lang.String" itemvalue="pandas" />
+            <item index="14" class="java.lang.String" itemvalue="torchmetrics" />
+            <item index="15" class="java.lang.String" itemvalue="tables" />
+            <item index="16" class="java.lang.String" itemvalue="hydra-core" />
+            <item index="17" class="java.lang.String" itemvalue="pytorch_lightning" />
+            <item index="18" class="java.lang.String" itemvalue="einops" />
+            <item index="19" class="java.lang.String" itemvalue="omegaconf" />
+            <item index="20" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="21" class="java.lang.String" itemvalue="lap" />
+            <item index="22" class="java.lang.String" itemvalue="easydict" />
+            <item index="23" class="java.lang.String" itemvalue="gdown" />
+            <item index="24" class="java.lang.String" itemvalue="gitpython" />
+            <item index="25" class="java.lang.String" itemvalue="ultralytics" />
+            <item index="26" class="java.lang.String" itemvalue="prettytable" />
+            <item index="27" class="java.lang.String" itemvalue="termcolor" />
+            <item index="28" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="29" class="java.lang.String" itemvalue="ninja" />
+            <item index="30" class="java.lang.String" itemvalue="onnx-simplifier" />
+            <item index="31" class="java.lang.String" itemvalue="loguru" />
+            <item index="32" class="java.lang.String" itemvalue="onnx" />
+            <item index="33" class="java.lang.String" itemvalue="path" />
+            <item index="34" class="java.lang.String" itemvalue="spatial-correlation-sampler" />
+            <item index="35" class="java.lang.String" itemvalue="mmcv" />
+            <item index="36" class="java.lang.String" itemvalue="ftfy" />
+            <item index="37" class="java.lang.String" itemvalue="timm" />
+            <item index="38" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="39" class="java.lang.String" itemvalue="wandb" />
+            <item index="40" class="java.lang.String" itemvalue="cityscapesscripts" />
+            <item index="41" class="java.lang.String" itemvalue="codecov" />
+            <item index="42" class="java.lang.String" itemvalue="joblib" />
+            <item index="43" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="44" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="45" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="46" class="java.lang.String" itemvalue="dgl" />
+            <item index="47" class="java.lang.String" itemvalue="sklearn" />
+            <item index="48" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="49" class="java.lang.String" itemvalue="cycler" />
+            <item index="50" class="java.lang.String" itemvalue="mkl-random" />
+            <item index="51" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="52" class="java.lang.String" itemvalue="certifi" />
+            <item index="53" class="java.lang.String" itemvalue="olefile" />
+            <item index="54" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="55" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="56" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="57" class="java.lang.String" itemvalue="decord" />
+            <item index="58" class="java.lang.String" itemvalue="anomalib" />
+            <item index="59" class="java.lang.String" itemvalue="opencv_python_headless" />
+            <item index="60" class="java.lang.String" itemvalue="imgaug" />
+            <item index="61" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.mean" />
+          <option value="int.__getitem__" />
+          <option value="int.__setitem__" />
+          <option value="str.__truediv__" />
+          <option value="bool.unsqueeze" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
